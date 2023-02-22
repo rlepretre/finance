@@ -1,6 +1,4 @@
-# Doc 
-
-Bon prends tout ce que je dis avec une pincée de sel parce que je fais mes propres recherches mais je suis pas du tout un expert non plus :upside-down: 
+Il faut prendre tout ce que je dis avec une pincée de sel parce que je fais mes propres recherches mais je suis pas du tout un expert non plus 😜
 
 Mais je peux te donner 2-3 pistes :
 
@@ -52,4 +50,15 @@ Pour les courtiers, il y a un joli tableau comparatif [ici](https://www.tijd.be/
 Le tableau te donne les frais de courtage par tranche d'achat par type de bourse.
 
 > Si j'achète entre 2000 et 4000€ à la bourse de Wall Street en utilisant Bolero, je paie X€
+
+Quelques liens en plus :
+* [Investing from Belgium](https://www.bogleheads.org/wiki/Investing_from_Belgium)
+* ([Getting started - A beginners guide to investing in Belgium through ETFs](https://www.reddit.com/r/BEFire/comments/fcbay6/getting_started_a_beginners_guide_to_investing_in/)
+
+# 4 L'immobilier
+Je pense que le rendement peut être similaire mais bien plus "variable". La dessus je m'y connais beaucoup moins, il faudrait plûtot en parler à Dal.
+
+
+--------------------------------------
+
 
